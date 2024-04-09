@@ -1,0 +1,34 @@
+#titulo-4{
+    color: crimson;
+}
+
+.titulo-3{
+    color: blueviolet;
+    color: blue;
+    color: brown;
+}
+
+#titulo-3{
+
+}
+
+h3{
+
+
+}
+
+*{
+
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: green;
+}
+
+.organizar-display{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-around;
+}
